@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_toolbox_component">
+    <sys_uib_toolbox_component action="INSERT_OR_UPDATE">
+        <description>A task dashboard component</description>
+        <icon>chart-forecast-fill</icon>
+        <label>Now Task Dashboard</label>
+        <macroponent display_value="Now Task Dashboard">95b5a074dfea84fb42537e434aa8c554</macroponent>
+        <sys_class_name>sys_uib_toolbox_component</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-09 08:27:45</sys_created_on>
+        <sys_id>6c684ce6d76e011de83fe483e5dad4a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Now Task Dashboard</sys_name>
+        <sys_package display_value="now-dashboard" source="x_375152_now_exp_1">73d8f7fe2ff5d410179158492799b6f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="now-dashboard">73d8f7fe2ff5d410179158492799b6f0</sys_scope>
+        <sys_update_name>sys_uib_toolbox_component_6c684ce6d76e011de83fe483e5dad4a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-09 08:27:45</sys_updated_on>
+    </sys_uib_toolbox_component>
+</record_update>

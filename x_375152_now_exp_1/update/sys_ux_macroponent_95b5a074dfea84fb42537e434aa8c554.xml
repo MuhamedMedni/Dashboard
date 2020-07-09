@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types>d8899a0473000010f7353c78caf6a750</associated_types>
+        <component_dependencies/>
+        <composition>[]</composition>
+        <data/>
+        <events/>
+        <extends/>
+        <interactions/>
+        <layout>{}</layout>
+        <macroponent_dependencies/>
+        <name>Now Task Dashboard</name>
+        <props>[]</props>
+        <root_component display_value="x-375152-now-experience-dashboard">daa799c7d25016ab693ee3ca2d598cab</root_component>
+        <root_component_config>{}</root_component_config>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-09 08:27:43</sys_created_on>
+        <sys_id>95b5a074dfea84fb42537e434aa8c554</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Now Task Dashboard</sys_name>
+        <sys_package display_value="now-dashboard" source="x_375152_now_exp_1">73d8f7fe2ff5d410179158492799b6f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="now-dashboard">73d8f7fe2ff5d410179158492799b6f0</sys_scope>
+        <sys_update_name>sys_ux_macroponent_95b5a074dfea84fb42537e434aa8c554</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-09 08:27:43</sys_updated_on>
+    </sys_ux_macroponent>
+</record_update>
